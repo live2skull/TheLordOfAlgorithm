@@ -16,9 +16,9 @@
 #### 문제풀이 플랫폼
 |플랫폼|폴더|제약사항|
 |------|---|---|
-|[백준 Online Judge](https://www.acmicpc.net/)|problems_boj|알고리즘, 자료구조 주요 유형을 익히며, 익숙한 `Python3`, `java`로 풀이 및 **문서 작성**|
+|[백준 Online Judge](https://www.acmicpc.net/)|problems_boj|알고리즘, 자료구조 주요 유형을 익히며, 익숙한 `Python3`, `Java`로 풀이 및 **문서 작성**|
 |[Topcoder](https://www.topcoder.com/)|problems_topcoder|유형 정리가 완료되면 SW Expert Academy와 병행 풀이|
-|[SW Expert Academy](https://swexpertacademy.com/main/main.do)|problems_swea|최종적으로 삼성 SW역량테스트 C형 통과를 목표로 `C++`로만 풀이|
+|[SW Expert Academy](https://swexpertacademy.com/main/main.do)|problems_swea|삼성 SW역량테스트 C형 통과를 목표로 `C++`로만 풀이|
 
 #### 진행 과정
 
