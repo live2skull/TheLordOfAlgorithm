@@ -16,16 +16,7 @@
 |플랫폼|폴더|제약사항|
 |------|---|---|
 |[백준 Online Judge](https://www.acmicpc.net/)|problems_boj|알고리즘, 자료구조 주요 유형을 익히며, 익숙한 `Python3`, `Java`로 풀이 및 **문서 작성**|
-|[Topcoder](https://www.topcoder.com/)|problems_topcoder|유형 정리가 완료되면 SW Expert Academy와 병행 풀이|
-|[SW Expert Academy](https://swexpertacademy.com/main/main.do)|problems_swea|삼성 SW역량테스트 `C++`로 풀이|
 
-### 진행 과정
-
-|주|일자|내용|
-|------|---|---|
-|01|2020. 03. 30 ~ 2020. 04. 05|백준 수학 유형 풀이, 블로그 유형별 알고리즘 문제풀이 작성 시작, 백준 다이나믹 프로그래밍 유형 문제풀이 및 유형 분석|
-|02|2020. 04. 06 ~ 2020. 04. 12|백준 브루트 포스, 그리디 알고리즘 유형 문제풀이(초급) 및 분석|
-|03|2020. 04. 13 ~ 2020 .04. 19|백준 백트래킹, 큐, 스택 유형 문제풀이(초급) 및 분석|
 ----
 
 ### 멤버
